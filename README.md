@@ -7,4 +7,4 @@ We use the RAVDESS dataset available at : https://drive.google.com/file/d/1wWsrN
 
 We use the Multi-Layer Perceptron Classifier model for training after extracting the features for the set of emotions and find out the accuracy of the model.
 
-Reference: https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/
+
